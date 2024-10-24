@@ -19,7 +19,7 @@
         <mxCell id="5k1g2GwFXr-7lkfAhNHs-5" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;thermal governor&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5k1g2GwFXr-7lkfAhNHs-6" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;thermal core&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5k1g2GwFXr-7lkfAhNHs-6" value="&lt;div&gt;&lt;font face=&quot;Georgia&quot;&gt;thermal cool device&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5k1g2GwFXr-7lkfAhNHs-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5k1g2GwFXr-7lkfAhNHs-4">
@@ -103,10 +103,10 @@
             <mxPoint x="405" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5k1g2GwFXr-7lkfAhNHs-24" value="&lt;font face=&quot;Georgia&quot;&gt;ST&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+        <mxCell id="5k1g2GwFXr-7lkfAhNHs-24" value="&lt;font face=&quot;Georgia&quot;&gt;PA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="316.65999999999997" y="419.66" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5k1g2GwFXr-7lkfAhNHs-25" value="&lt;font face=&quot;Georgia&quot;&gt;BB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+        <mxCell id="5k1g2GwFXr-7lkfAhNHs-25" value="&lt;font face=&quot;Georgia&quot;&gt;US&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="374.65999999999997" y="419.66" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5k1g2GwFXr-7lkfAhNHs-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
